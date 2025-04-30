@@ -6,16 +6,16 @@ which comes in cls and blank versions. With Enzyme-GLM, you can achieve the foll
 
 Before commencing the use of Enzyme-GLM, you are required to undertake the preparatory work as follows:   
 
-1. Please first install dependencies by `pip install -r requirements.txt`
-
-2. Glone this repo   
+1. Glone this repo   
 ```shell
 git clone https://github.com//YinhuiQiao/Enzyme-GLM   
 cd Enzyme-GLM
 ```
 
-3. You should get checkpoints data from here(https://github.com/NVIDIA/apex),   
-then ensure they are placed under the checkpoint file.
+2. Please first install dependencies by `pip install -r requirements.txt`
+
+3. You should get checkpoints data from here(https:xxx),   
+then ensure they are placed under the checkpoint file: './checkpoint/'.
 
 # Usage
 
@@ -61,4 +61,3 @@ Run the command:
 ```shell
 python Bilingula_GLM.py
 ```
-
