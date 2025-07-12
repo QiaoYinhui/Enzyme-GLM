@@ -8,6 +8,9 @@ Before using Enzyme-GLM-gen, please ensure you meet the following requirements:
 
 - 1.Have a computer running a Linux-based operating system
 - 2.Install the dependencies. Please refer to the link: (https://github.com/THUDM/GLM)
+bash scripts/generate_Pro_condition.sh
+- 3.Download the model weights file from link xx and modify the model weights path in the .sh file.
+(generate_Pro_uncondition.sh and generate_Pro_condition.sh)
 
 
 ### unconditional production of amino acid sequences
