@@ -14,7 +14,7 @@ cd Enzyme-GLM
 
 2. Please first install dependencies by `pip install -r requirements.txt`
 
-3. You should get checkpoints data from here(https:xxx),   
+3. You should get checkpoints data from here(https://zenodo.org/records/15868721),   
 then ensure they are placed under the checkpoint file: './checkpoint/'.
 
 # Usage
